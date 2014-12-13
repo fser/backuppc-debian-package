@@ -1,0 +1,9 @@
+[submodule "BackupPC"]
+	path = BackupPC
+	url = git@github.com:fser/BackupPC.git
+[submodule "BackupPC-XS"]
+	path = BackupPC-XS
+	url = git@github.com:fser/BackupPC-XS.git
+[submodule "rsync-bpc"]
+	path = rsync-bpc
+	url = git@github.com:fser/rsync-bpc.git
