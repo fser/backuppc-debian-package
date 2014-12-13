@@ -8,6 +8,7 @@ How to start?
 
 First of all, you have to init submodules, and checkout dependancies:
 
+```no-highlight
 $ git submodule init
 Submodule 'BackupPC' (git@github.com:fser/BackupPC.git) registered for path 'BackupPC'
 Submodule 'BackupPC-XS' (git@github.com:fser/BackupPC-XS.git) registered for path 'BackupPC-XS'
@@ -34,7 +35,7 @@ remote: Total 233 (delta 7), reused 229 (delta 6)
 Receiving objects: 100% (233/233), 827.65 KiB | 369 KiB/s, done.
 Resolving deltas: 100% (7/7), done.
 Submodule path 'rsync-bpc': checked out '1eeab8f182f7030b6cdd262a18a9166ba6e4f692'
-
+```
 Now, you can wait for this project to go further, or contribute.
 
 Todo
